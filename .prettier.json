@@ -1,0 +1,9 @@
+{
+  "prettier": {
+    "eslintIntegration": true,
+    "singleQuote": false,
+    "insertPragma": false,
+    "trailingComma": "none",
+    "arrowParens": "avoid"
+  }
+}
